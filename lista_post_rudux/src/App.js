@@ -18,9 +18,6 @@ const App = () => {
     <Provider store={store}>
       <Router />
     </Provider>
-    // <View style={{ flex:1, justifyContent: 'center'}}>
-    //   <text> tessssssste</text>
-    // </View>
   );
 };
 
