@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lista_post_redux",
-    "slug": "lista_post_rudux",
+    "name": "List_post",
+    "slug": "Lista_AppPost",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
